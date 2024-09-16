@@ -10,7 +10,6 @@ Galaxy Explorer is an interactive web application designed to help users learn a
 
 ## Features
 
-- **Interactive UI**: A user-friendly interface that makes learning about galaxies engaging.
 - **Random Display**: Each session starts with five randomly selected galaxies from our curated list.
 - **Shuffle Functionality**: Users can press the "Shuffle" button to randomly display a different set of galaxies, enhancing the exploration experience.
 
